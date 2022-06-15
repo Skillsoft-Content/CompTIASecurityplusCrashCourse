@@ -1,0 +1,14 @@
+﻿Question Report,
+Report Generated:,"Jun 15, 2022 8:23 AM"
+Topic,Webinar ID,Actual Start Time,Actual Duration (minutes),# Question
+CompTIA Security+ Crash Course,501 326 247,"Jun 14, 2022 10:46 AM", 316, 5
+Question Details,
+#,Question,Asker Name,Asker Email,Answer,Question Time,Answered Time,
+1,What is the difference between DNS poisoning and Browser Hijacking? ,Ionko Ionkoff,'-,"With DNS poisoning attack a malicious user inserts a fake entry into the DNS server so that when a user makes the request to the website they are redirected to a different website. Or the malicious user makes the website unavailable.
+
+Browser hijacking happens when software is added to an internet browser that changes the activity of the browser, for example taking them to a website to capture information.",06/14/2022 12:57:01,06/14/2022 13:09:23,
+2,I have a question ,Jovenky Alcide,'-,,06/14/2022 13:49:40,,
+3,are we going to have a copy of this recording ,Jovenky Alcide,'-,The recordings are typically available 24 to 48 hours after the session ends on the Watch tab in Percipio as Replay sessions.,06/14/2022 13:50:48,06/14/2022 13:52:15,
+4,"If we're salting and hashing passwords to our site/company/etc, why do they then limit your password to 8-16 characters?  If the hash value is always length x i would think the input length shouldn't matter and it makes me wonder if said sites are not in fact hashing passwords but keeping them plaintext",Christopher Gabel,'-,"Limiting the number of characters for a password I would guess is more of a practical thing than anything. When a person registers for an account the password that in inputted should be hashed and hash stored in a database. Can you image if you just let a password of any length be inputted? And when you register an account you typically have to retype the password. There is also something known as long password denial of service. You can read more here.
+https://www.acunetix.com/vulnerabilities/web/long-password-denial-of-service/",06/14/2022 15:13:16,06/14/2022 15:22:24,
+5,I don't see where Michael is typing e.g. the video for the blockchain. It is not visible in the common chat or in the Q&A. Could you please share where is this section. Thank you. ,Radoslav Radev,'-,I'll have to check with him after the session as I don't see a video link posted.,06/14/2022 15:43:20,06/14/2022 15:44:26,
